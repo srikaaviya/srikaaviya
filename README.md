@@ -3,12 +3,8 @@
 
 <!-- Social and Contact Links -->
 <div align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  
-  <!-- IMPORTANT: If your LinkedIn username is NOT srikaaviya, change the link below! -->
-  <a href="https://linkedin.com/in/srikaaviya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/srikaaviya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
-
 <br>
 
 I'm a developer passionate about writing clean code, solving complex problems, and building elegant software.
