@@ -1,10 +1,12 @@
-  
+
 # Hi there, I'm Srikaaviya 
 
 <!-- Social and Contact Links -->
 <div align="left">
-  <a href="srikaaviya3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sri-kaaviya><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  
+  <!-- IMPORTANT: If your LinkedIn username is NOT srikaaviya, change the link below! -->
+  <a href="https://linkedin.com/in/srikaaviya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br>
@@ -16,11 +18,11 @@ I'm a developer passionate about writing clean code, solving complex problems, a
 ### 🌟 Featured Projects
 
 <div align="left">
-  <a href="https://github.com/srikaaviya/opentelemetry-python-contrib ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikaaviya&repo=YOUR_REPO_NAME_1&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
+  <a href="https://github.com/srikaaviya/opentelemetry-python-contrib">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikaaviya&repo=opentelemetry-python-contrib&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
   </a>
   <a href="https://github.com/srikaaviya/Submitty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikaaviya&repo=YOUR_REPO_NAME_2&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikaaviya&repo=Submitty&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
   </a>
 </div>
 
