@@ -16,10 +16,10 @@ I'm a developer passionate about writing clean code, solving complex problems, a
 ### 🌟 Featured Projects
 
 <div align="left">
-  <a href="https://github.com/srikaaviya/opentelemetry">
+  <a href="https://github.com/srikaaviya/opentelemetry-python-contrib ">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikaaviya&repo=YOUR_REPO_NAME_1&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
   </a>
-  <a href="https://github.com/srikaaviya/submitty">
+  <a href="https://github.com/srikaaviya/Submitty">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikaaviya&repo=YOUR_REPO_NAME_2&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
   </a>
 </div>
