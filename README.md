@@ -15,10 +15,10 @@ I'm a developer passionate about writing clean code, solving complex problems, a
 
 <div align="left">
   <a href="https://github.com/srikaaviya/opentelemetry-python-contrib">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikaaviya&repo=opentelemetry-python-contrib&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=srikaaviya&repo=opentelemetry-python-contrib&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
   </a>
   <a href="https://github.com/srikaaviya/Submitty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srikaaviya&repo=Submitty&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=srikaaviya&repo=Submitty&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
   </a>
 </div>
 
@@ -36,8 +36,8 @@ I'm a developer passionate about writing clean code, solving complex problems, a
 ### 📊 GitHub Activity
 <div align="center">
   
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=srikaaviya&show_icons=true&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
+  <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srikaaviya&show_icons=true&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&icon_color=6B7280&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
   
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikaaviya&layout=compact&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
+  <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srikaaviya&layout=compact&bg_color=F8F9FA&title_color=1F2937&text_color=4B5563&border_color=E5E7EB&hide_border=false&border_radius=5.5" />
 
 </div>
